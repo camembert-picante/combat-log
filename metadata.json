@@ -1,0 +1,8 @@
+{
+  "name": "Odyssey Parse Engine",
+  "description": "An advanced combat log parsing dashboard designed for DCUO logs. Visualizes damage per second, identifies top-performing moves, and compares multiple runs side-by-side.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
